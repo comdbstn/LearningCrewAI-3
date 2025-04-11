@@ -52,25 +52,25 @@ const Testimonials = () => {
       quote: "Learning Crew AI는 제 학습 방식을 완전히 바꿨어요. 개인화된 학습 경로 덕분에 제 약점을 정확히 파악하고 집중적으로 개선할 수 있었습니다.",
       name: "김민지",
       title: "대학생, 컴퓨터공학과",
-      image: "https://placehold.co/200x200/4f46e5/ffffff?text=김민지"
+      image: "https://placehold.co/200x200/4f46e5/ffffff?text=MinJi"
     },
     {
       quote: "아이가 Learning Crew AI를 사용한 후, 수학 성적이 크게 향상되었어요. 특히 실시간 피드백 기능이 아이의 학습 동기를 높이는 데 큰 도움이 되었습니다.",
       name: "이준호",
       title: "학부모",
-      image: "https://placehold.co/200x200/f97316/ffffff?text=이준호"
+      image: "https://placehold.co/200x200/f97316/ffffff?text=JunHo"
     },
     {
       quote: "영어 회화 능력을 높이고 싶어서 시작했는데, AI 튜터와의 대화식 학습이 실제 영어 사용 환경과 비슷해서 자연스럽게 실력이 향상되는 것을 느꼈습니다.",
       name: "박소연",
       title: "직장인, 마케팅 매니저",
-      image: "https://placehold.co/200x200/14b8a6/ffffff?text=박소연"
+      image: "https://placehold.co/200x200/14b8a6/ffffff?text=SoYeon"
     },
     {
       quote: "수십 명의 학생을 관리하는 교사로서, Learning Crew AI의 자동화된 학습 진행 추적 기능은 정말 혁신적입니다. 각 학생의 강점과 약점을 쉽게 파악할 수 있어요.",
       name: "최재민",
       title: "고등학교 교사",
-      image: "https://placehold.co/200x200/ec4899/ffffff?text=최재민"
+      image: "https://placehold.co/200x200/ec4899/ffffff?text=JaeMin"
     }
   ];
 
